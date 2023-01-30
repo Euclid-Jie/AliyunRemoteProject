@@ -1,4 +1,4 @@
-<img src="https://socialify.git.ci/Euclid-Jie/AliyunRemoteProject/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&theme=Auto" alt="AliyunRemoteProject" width="640" height="320" />
+<div align=center><img src="https://socialify.git.ci/Euclid-Jie/AliyunRemoteProject/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&theme=Auto" alt="AliyunRemoteProject" width="640" height="320" /></div>
 
 ## 文件说明
 
